@@ -1,2 +1,4 @@
 # IntroToProg-Python
-This repo will be used for reviewing homework files
+
+Go to My Web Page
+https://jpatoc.github.io/IntroToProg-Python/
